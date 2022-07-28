@@ -1,7 +1,9 @@
-/* .fa-star ,.fa-star-half-stroke{
-    font-size: 12px;
-    color: #FFC014;
-} */
-.bg-explore{
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Poppins:wght@400;500&display=swap');
+
+.name {
+    font-family: 'Poppins';
+}
+
+.bg-explore {
     background-color: #F4FAFD;
 }
